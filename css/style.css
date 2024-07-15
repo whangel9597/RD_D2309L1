@@ -1,0 +1,185 @@
+@charset "utf-8";
+/* CSS Document */
+.full-page {
+  width: 100%;
+  min-height: 4000px;
+  background-color: #f8f9fa;
+}
+.top-bar {
+  height: 50px;
+  line-height: 45px;
+}
+.top-bar a {
+  color: white;
+  line-height: 45px;
+}
+.top-bar a :hover {
+  color: #FFC113;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+  font-size: 10pt;
+  padding-left:30px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover {
+  color: #FFC113;
+}
+.vechungtoi {
+  margin: 60px 0;
+}
+.vechungtoi .content-about-us {
+  margin: 90px 0 10px 50px;
+}
+.vechungtoi i {
+  color: #F25252;
+}
+hr {
+  width: 98%;
+}
+.text-abus {
+  color: #6c757d;
+}
+/*
+.shape {
+  weight: 50px;
+  height: 300px;
+  margin: 100px 0px;
+  background-color: transparent;
+}
+*/
+.content-dvu img {
+  margin-top: 35px;
+}
+.content-dvu a {
+  text-decoration: none;
+  color: black;
+}
+.content-dvu a:hover {
+  color: #FFC113;
+}
+#why {
+  width: 100%; 
+  min-height: 400px; 
+  background-image: url("../images/why.jpg");
+  background-repeat: no-repeat;
+  background-site: cover;
+  background-position: center top ;
+}
+#backtotop {
+  width: 30px;
+  height: 30px;
+  position: fixed;
+  right: 30px;
+  bottom: 20px;
+  background-color: white;
+  color: gray;
+}
+footer
+{
+	min-height:200px;
+	
+}
+footer i
+{
+	padding-bottom:20px;
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	color:#FFC113;
+}
+.gach-chan
+{
+	padding-bottom: 20px;
+	border-bottom: 2px solid #FFC113;
+}
+.time
+{
+	padding-top:43px;
+}
+.navbar-nav
+{
+	padding:34px;
+}
+#backtotop:hover {
+  background-color: gray;
+  color: white;
+}
+#backtotop i {
+  margin-left: 10px;
+  margin-top: 7px;
+}
+main
+{
+	min-height: 500px;
+}
+footer .mail-ref
+{
+	text-decoration: none;
+	color:white;
+}
+footer .mail-ref:hover
+{
+	color:#FFC113;
+}
+footer .phone-ref:hover
+{
+	color:#FFC113;
+}
+footer .phone-ref
+{
+	text-decoration: none;
+	color:white;
+}
+.last-bar {
+  height: 50px;
+  line-height: 45px;
+}
+#news .news-title
+{
+	text-decoration: none;
+	color: black;
+	font-weight: 600;
+}
+#news .news-title:hover
+{
+	color: #FFC113;
+}
+#news .news-comments
+{
+	text-decoration: none;
+	color:gray;
+
+}
+#news .news-comments:hover
+{
+	color: black;
+}
+#book .book-btn
+{
+	margin-top:65px;
+}
+.client
+{
+	width:100%;
+	position: relative;
+}
+.befor
+{
+	position: absolute;
+	background-color: rgba(255,255,255,0.5);
+	left:0;
+	top:0;
+	padding:6px;
+	
+}
+.after
+{
+	position: absolute;
+	background-color: rgba(255,255,255,0.5);
+	left:50%;
+	top:0;
+	padding:6px;
+	
+}
+.ser
+{
+	width: 85%;
+}
